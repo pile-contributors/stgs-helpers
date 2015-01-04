@@ -1,5 +1,5 @@
 #include <gtest/gtest.h>
-#include <usermsg/usermsg.h>
+#include <stgs/stgs.h>
 
 class TestUsage : public ::testing::Test {
 
